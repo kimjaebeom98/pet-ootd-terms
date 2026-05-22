@@ -1,0 +1,13 @@
+# 절대 커밋 금지 — 사업자등록증, 개인 식별 문서
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jekyll
+_site/
+.jekyll-cache/

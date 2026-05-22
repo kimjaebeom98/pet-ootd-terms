@@ -1,0 +1,11 @@
+title: 멍냥오오티디
+description: 서비스 이용약관 · 개인정보 수집·이용 동의서
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
+include:
+  - terms.md
+  - privacy.md
